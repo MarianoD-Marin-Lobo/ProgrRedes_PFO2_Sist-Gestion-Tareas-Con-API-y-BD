@@ -219,10 +219,6 @@ Este cliente utiliza la librería `requests`. Si no está instalada, se debe eje
 https://github.com/MarianoD-Marin-Lobo/ProgrRedes_PFO2_Sist-Gestion-Tareas-Con-API-y-BD
 
 
-**Link al proyecto hostiado mediante GitHub Pages**
-https://marianod-marin-lobo.github.io/ProgrRedes_PFO2_Sist-Gestion-Tareas-Con-API-y-BD/
-
-
 
 **Preguntas conceptuales**
 
