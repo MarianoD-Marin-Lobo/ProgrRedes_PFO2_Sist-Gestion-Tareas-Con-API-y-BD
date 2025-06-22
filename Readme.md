@@ -1,3 +1,12 @@
+# Práctica Formativa Obligatoria Nº 2
+
+# Integrantes del Grupo
+- Constantin, Madelaine
+- Maidana, Martin Nicolas
+- Marin, Mariano Daniel
+- Ramis Veron, Lorena
+- Sazycz, Pablo
+
 # Sistema de Gestión de Tareas con API y Base de Datos
 
 Este proyecto implementa un sistema básico de gestión de tareas con una API REST desarrollada en Flask, que incluye registro de usuarios, inicio de sesión con autenticación básica y una sección de tareas.
@@ -204,3 +213,21 @@ Este cliente utiliza la librería `requests`. Si no está instalada, se debe eje
 11. **Inicio de sesión FALLIDO (Cliente consola)**
 ![PFO2_Captura-11_Inicio-Sesion-FALLIDO_Consola](PFO2_Captura-11_Inicio-Sesion-FALLIDO_Consola-1.png)
 
+
+
+**Acceso al repositorio**
+https://github.com/MarianoD-Marin-Lobo/ProgrRedes_PFO2_Sist-Gestion-Tareas-Con-API-y-BD
+
+
+**Link al proyecto hostiado mediante GitHub Pages**
+https://marianod-marin-lobo.github.io/ProgrRedes_PFO2_Sist-Gestion-Tareas-Con-API-y-BD/
+
+
+
+**Preguntas conceptuales**
+
+**¿Por qué hashear contraseñas?**
+    Hashear contraseñas es una medida de seguridad para proteger los datos de los usuarios. En lugar de guardar la contraseña tal como la escribe el usuario, se guarda una versión codificada que no se puede leer directamente. Así, si alguien accede a la base de datos, no podrá ver ni usar las contraseñas reales. Es una forma de cuidar la privacidad y evitar que se filtren datos sensibles ante cualquier falla o ataque.
+
+**Ventajas de usar SQLite en este proyecto**
+    SQLite es ideal para este tipo de trabajos porque es una base de datos liviana, fácil de usar y no requiere instalar un servidor aparte. Funciona directamente desde un archivo, lo cual simplifica mucho la configuración y la hace perfecta para proyectos pequeños, de práctica o con pocos usuarios. Además, se integra bien con Python y permite guardar los datos de forma ordenada y permanente sin complicaciones.
